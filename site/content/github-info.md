@@ -17,5 +17,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Latest GitHub Updates
 
-- GitHub Copilot Agent Mode is now available to help orchestrate complex tasks across files!
+- GitHub Actions: Environments can now be configured with a ‘auto-rollback on failure’ setting, which will automatically trigger a rollback to the last successful deployment if the current deployment fails. (Source: GitHub Changelog)
+- GitHub Copilot: The share feature now allows you to share conversations with other users, making it easier to collaborate on code and prompts. (Source: GitHub Blog)
+- Awesome-copilot Workflows: New workflows for OSPO (Open Source Program Office) are available, including reports for organization health and stale repositories. (Source: Awesome-copilot Workflows)
 
