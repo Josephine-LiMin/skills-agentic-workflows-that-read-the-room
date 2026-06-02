@@ -18,4 +18,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 ## Latest GitHub Updates
 
 - GitHub Copilot Agent Mode is now available to help orchestrate complex tasks across files!
+- GitHub Actions now offers larger, more powerful runners for demanding workflows. (Source: GitHub Changelog)
+- GitHub Copilot Chat is now available in the CLI, bringing AI assistance to your terminal. (Source: GitHub Blog)
+- Secure your deployments with OpenID Connect (OIDC) in GitHub Actions, now generally available. (Source: GitHub Changelog)
 
