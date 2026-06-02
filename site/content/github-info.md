@@ -17,5 +17,8 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Latest GitHub Updates
 
-- GitHub Copilot Agent Mode is now available to help orchestrate complex tasks across files!
+- A new GitHub Blog post details how to use GitHub Copilot to learn and write code in a new programming language. (Source: GitHub Blog)
+- A new GitHub Blog post details how to use GitHub Copilot to learn and write code in a new programming language. (Source: GitHub Blog)
+- GitHub Copilot Agent can now be used to automate workflows and tasks, making it a powerful tool for developers. (Source: Awesome-copilot workflows)
+- GitHub Actions now supports a new `workflow_run` event trigger that allows workflows to be triggered by the completion of other workflows. This is useful for creating powerful CI/CD pipelines. (Source: GitHub Changelog)
 
