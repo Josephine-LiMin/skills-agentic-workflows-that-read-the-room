@@ -18,4 +18,6 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 ## Latest GitHub Updates
 
 - GitHub Copilot Agent Mode is now available to help orchestrate complex tasks across files!
+- Explore a collection of community-curated agentic workflows at Awesome-Copilot Workflows to enhance your GitHub automation.
+- Stay tuned for more updates from the GitHub Blog and Changelog.
 
