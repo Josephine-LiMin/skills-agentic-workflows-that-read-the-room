@@ -19,3 +19,12 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 - GitHub Copilot Agent Mode is now available to help orchestrate complex tasks across files!
 
+## Awesome Copilot Workflows
+
+- **Daily Issues Report**: Generates a daily summary of open issues and recent activity as a GitHub issue.
+- **OSPO Contributors Report**: Monthly contributor activity metrics across an organization's repositories.
+- **Pull Request Triage**: Automatically labels and assigns pull requests based on their content.
+
+(Source: [Awesome-copilot workflows](https://awesome-copilot.github.com/workflows/))
+
+
